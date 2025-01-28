@@ -1,0 +1,17 @@
+-------------------------------------------------
+	J.A.R.S Railway Reservation
+-------------------------------------------------
+
+
+TICKET ID		:111
+TICKET NAME		:aman
+TRAIN NAME		:Bullet Train
+FROM		:Sukkur
+TO		:Islamabad
+CLASS		:Economy
+QUANTITY		:4
+
+
+
+-------------------------------------------------
+TOTAL			: $520
