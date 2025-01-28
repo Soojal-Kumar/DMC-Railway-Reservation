@@ -37,9 +37,6 @@ A comprehensive Java-based Railway Reservation System built using **NetBeans** a
 
 ### Steps to Run the Project
 1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/RailwayReservationSystem.git
-   ```
 2. **Database Setup**:
    - Open the `database.sql` file in MySQL Workbench.
    - Execute the script to create and populate the database.
