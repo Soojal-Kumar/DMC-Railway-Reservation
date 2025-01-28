@@ -28,21 +28,6 @@ A comprehensive Java-based Railway Reservation System built using **NetBeans** a
 
 ---
 
-## 📂 Project Structure
-
-```
-RailwayReservationSystem/
-├── src/                     # Source code files
-│   ├── main/                # Core project files
-│   ├── database/            # Database connection utilities
-├── resources/               # Images, icons, and other assets
-├── database.sql             # SQL script to create and populate the database
-├── README.md                # Documentation file
-└── .gitignore               # Git ignore file
-```
-
----
-
 ## 📝 Installation Guide
 
 ### Prerequisites
@@ -80,34 +65,11 @@ The database consists of the following tables:
 
 ---
 
-## 🖼️ Sample Data
-
-### Stations
-| ID | Name               | City        | Country  |
-|----|--------------------|-------------|----------|
-| 1  | Karachi Cantt      | Karachi     | Pakistan |
-| 2  | Lahore Junction    | Lahore      | Pakistan |
-
-### Train Types
-| ID | Name     | Price (USD) |
-|----|----------|-------------|
-| 1  | Luxury   | 1000        |
-| 2  | Standard | 600         |
-| 3  | Economy  | 400         |
-
----
-
 ## 🎯 Objectives Achieved
 
 - Minimized manual errors in booking and canceling tickets.
 - Enabled automated management of train schedules and passenger information.
 - Simplified the ticket reservation process.
-
----
-
-## 📚 Documentation
-
-For detailed documentation and code snippets, refer to the [Project Report](docs/Project_Report.pdf) (if available).
 
 ---
 
@@ -118,16 +80,16 @@ For detailed documentation and code snippets, refer to the [Project Report](docs
 3. Commit your changes with descriptive messages.
 4. Push your branch and create a pull request.
 
----
-
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify it.
 
 ---
 
 ## 📧 Contact
 
 For queries or issues:
-- **Email**: 1plus2isequalto3@gmail.com
-- **Phone**: +92 336 2747628
+- **Email**: soooojalkumar@gmail.com
+
+---
+
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE). Feel free to use and modify it.
