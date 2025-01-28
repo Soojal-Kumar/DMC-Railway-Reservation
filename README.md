@@ -1,6 +1,7 @@
 
 # DMC Railway Reservation System
-![image](https://github.com/user-attachments/assets/d9f0feeb-d499-4dac-9389-bfbc3ebf65c5)
+![image](https://github.com/user-attachments/assets/d9f0feeb-d499-4dac-9389-bfbc3ebf65c5) ![image](https://github.com/user-attachments/assets/2539f044-fb2a-4bba-bca1-4395ad57937f)
+
 
 
 A comprehensive Java-based Railway Reservation System built using **NetBeans** and **MySQL**. The system is designed to automate and simplify railway operations, including ticket booking, train schedule management, and passenger information maintenance.
@@ -18,8 +19,6 @@ A comprehensive Java-based Railway Reservation System built using **NetBeans** a
 - **Helpline Bot**: Provide guidance to passengers with a chatbot.
 - **Printable Tickets**: Generate tickets and print them as PDFs.
 - **Interactive UI**: Built using Java Swing for a user-friendly interface.
-
-![image](https://github.com/user-attachments/assets/2539f044-fb2a-4bba-bca1-4395ad57937f)
 
 
 ---
