@@ -95,4 +95,4 @@ For queries or issues:
 
 ## 📝 License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify it.
+This project is licensed under the [Prosperity License](LICENSE). 
